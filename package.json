@@ -1,6 +1,6 @@
 {
   "name": "react-pdf-js-infinite",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "A React component to wrap PDF.js",
   "main": "./lib/index.js",
   "jsnext:main": "./src/index.js",
@@ -35,7 +35,7 @@
     "react-dom": "^15.5.0 || ~0.14.0"
   },
   "dependencies": {
-    "pdfjs-dist": "~1.9.0",
+    "pdfjs-dist": "^1.9.646",
     "prop-types": "~15.5.0"
   },
   "devDependencies": {

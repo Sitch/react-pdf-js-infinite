@@ -6,7 +6,7 @@
   "jsnext:main": "./src/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/McRipper/react-pdf-js-infinite"
+    "url": "https://github.com/Sitch/react-pdf-js-infinite"
   },
   "scripts": {
     "start": "node server",
@@ -24,12 +24,12 @@
     "pdf",
     "pdfjs"
   ],
-  "author": "Emanuele Barban (http://github.com/McRipper)",
+  "author": "Michael Sitchenko (http://github.com/Sitch)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/McRipper/react-pdf-js-infinite/issues"
+    "url": "https://github.com/Sitch/react-pdf-js-infinite/issues"
   },
-  "homepage": "https://github.com/McRipper/react-pdf-js-infinite",
+  "homepage": "https://github.com/Sitch/react-pdf-js-infinite",
   "peerDependencies": {
     "react": "^15.5.0 || ~0.14.0",
     "react-dom": "^15.5.0 || ~0.14.0"
